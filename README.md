@@ -87,5 +87,10 @@ reembolsado mediante comprovação de que o candidato realizou o teste.
 É permitido ao usuário a utilização de qualquer framework ou tecnologia que facilite ou mesmo implemente exatamente o que está sendo requisitado no desafio. Por exemplo,
 Laravel Queues (https://laravel.com/docs/5.5/queues)
 
+### Dashboard
+
+   ![Dashboard](https://raw.githubusercontent.com/rodolffoterra/Project_Marijuana_Legalization_TS/main/imagnes/Dashboard.png)
+
+
 
 ![Rodolfo Terra](https://raw.githubusercontent.com/rodolffoterra/wide_soft/main/logo.png)
