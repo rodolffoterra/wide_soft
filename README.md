@@ -31,16 +31,21 @@ inconclusivas.
 Para conclusão do desafio, esperamos receber:
 
 ● Acesso ao banco de dados usado e normalizado para o desafio.
+
 ● Acesso à análise realizada, scripts, dahboards, e todos os documentos gerados.
+
 ● Acesso à sua conclusão para a análise realizada;
+
 ● Se realizado desenvolvimento de aplicação, esperamos receber instruções para acesso ao sistema na plataforma cloud escolhida pelo candidato: AWS, Azure, GCP,
 Linode, DigitalOcean, etc..
 
 ● Documento respondendo os seguintes questionamentos:
 
-○ Qual o tempo aproximado gasto por você neste desafio?
-○ Quais as dificuldades que você enfrentou no desafio?
-○ Quais soluções você tentou e não deram certo ou não foram viáveis de implementação?
+● Qual o tempo aproximado gasto por você neste desafio?
+
+● Quais as dificuldades que você enfrentou no desafio?
+
+● Quais soluções você tentou e não deram certo ou não foram viáveis de implementação?
 
 
 ## 5 Contextualização
